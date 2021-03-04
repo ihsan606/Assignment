@@ -1,3 +1,5 @@
 -> make Dekstop Application
 -> make a Website
 -> make a Mobile App and Develop it
+-> learn Data Science
+-> learn more programing language
